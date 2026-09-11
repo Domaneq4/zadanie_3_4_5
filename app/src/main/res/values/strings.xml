@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="witaj_programisto">Witaj programisto</string>
+    <string name="to_jest_przycisk_2">to jest przycisk 2</string>
+    <string name="to_jest_przycisk_1">To jest przycisk 1</string>
+    <string name="powrot_przycisk">powrot przycisk</string>
+    <string name="dodawanie">dodawanie</string>
+    <string name="odejmowanie">odejmowanie</string>
+    <string name="zerowanie">zerowanie</string>
+    <string name="zadanie_1">zadanie 1</string>
+    <string name="brak_kliknietego_przycisku">brak kliknietego przycisku</string>
+    <string name="zadanie_2">zadanie 2</string>
+</resources>
